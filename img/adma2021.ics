@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Australia/Sydney
+LAST-MODIFIED:20201011T015911Z
+TZURL:http://tzurl.org/zoneinfo-outlook/Australia/Sydney
+X-LIC-LOCATION:Australia/Sydney
+BEGIN:STANDARD
+TZNAME:AEST
+TZOFFSETFROM:+1100
+TZOFFSETTO:+1000
+DTSTART:19700405T030000
+RRULE:FREQ=YEARLY;BYMONTH=4;BYDAY=1SU
+END:STANDARD
+BEGIN:DAYLIGHT
+TZNAME:AEDT
+TZOFFSETFROM:+1000
+TZOFFSETTO:+1100
+DTSTART:19701004T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=1SU
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20220131T060658Z
+UID:ZOOM85080142156
+DTSTART;TZID=Australia/Sydney:20220202T090000
+RRULE:FREQ=DAILY;UNTIL=20220203T220000Z
+DTEND;TZID=Australia/Sydney:20220202T173000
+SUMMARY:ADMA
+URL:http://adma2021.net/program
+DESCRIPTION:As you may already know\, due to the outbreak of the COVID-19 Omicron variant in Sydney\, the conference committee has decided to host the conference in a full virtual model. The detailed program is now available on the conference website.  \n \nConference Programme: http://adma2021.net/program\n\nKeynote and Paper Session: https://uqz.zoom.us/j/85080142156(Zoom download: https://zoom.us/download)\n\nPoster Presentation: ‍https://gather.town/app/xm6WyDCknlfcOrom/AJCAI-ADMA-2021 (Gather.town)\n\nJoin from a PC\, Mac\, iPad\, iPhone or Android device:\n    Please click this URL to join. https://uqz.zoom.us/j/85080142156\n\nOr One tap mobile:\n    +61871501149\,\,85080142156# Australia\n    +61280156011\,\,85080142156# Australia\n\nOr join by phone:\n    Dial(for higher quality\, dial a number based on your current location):\n        Australia: +61 8 7150 1149  or +61 2 8015 6011  or +61 3 7018 2005  or +61 7 3185 3730  or +61 8 6119 3900 \n    Webinar ID: 850 8014 2156\n    International numbers available: https://uqz.zoom.us/u/kcOW1lVuKi\n
+LOCATION:https://uqz.zoom.us/j/85080142156
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,241 @@
+body {
+  padding-top: 40px;
+  padding-bottom: 30px;
+  background: #F0FBFB;
+}
+
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+  width: auto;
+}
+
+
+#header {
+	/* background: #ffffff;
+	 padding: 190px 0px 290px 0px;
+	 background-image:url("images/dicta_header.jpg");
+	 background-position:center;
+	 width:1172px;
+	 height:485x;
+	 margin-left: -120px;
+	 margin-top: -40px;
+	 background-repeat: no-repeat;
+	 background-size: 80% 80% */
+	padding: 10px 10px;
+	margin-bottom: -10px;
+}
+#header h1 {
+	margin: 0;
+	padding: 10px 0;
+}
+
+#main {
+	float: center;	
+	width: 100%;
+	font-size: 14px;
+	background-color: #FFF;
+ 	position:relative; 
+	margin:0 auto; 
+}
+
+.fltrt {
+	float: right;
+	margin-left: 8px;
+}
+.fltlft {
+	float: left;
+	margin-right: 8px;
+}
+.clearfloat {
+	clear: both;
+	height: 0;
+	font-size: 1px;
+	line-height: 0px;
+}
+h1 {
+	font-family: Arial, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	font-weight: normal;
+	font-style: normal;
+	color: #00008B;
+}
+h2 {
+	font-family: Arial, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: normal;
+	font-style: normal;
+	color: #00008B;
+}
+h3 {
+	font-family: Arial, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: normal;
+	font-style: normal;
+	color: #00008B;
+}
+h4 {
+
+	color: #00008B;
+}
+h5 {
+	color: #00008B;
+}
+h6{
+	font-family: Arial, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: normal;
+	font-style: normal;
+	color: 		#696969;
+}
+
+p {
+	font-family:arial,helvetica,sans-serif;
+}
+#footer h1 {
+	font-family: Arial, Verdana, Arial, Helvetica, sans-serif;
+	margin: 0;
+	font-size: 12px;
+}
+
+a {
+	font-weight: normal;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.navbar-default {
+    background-color: #111111;
+    border-color: blue;
+}
+
+.news-para {
+	margin-top: 1px;
+	margin-bottom: 3px;
+}
+#map {
+	width: 100%;
+	height: 100%;
+}
+
+#footer {
+	clear: both;
+	display: block;
+	position: relative;
+	z-index: 10;
+	height: 3em;
+	margin-top: -3em;
+}
+
+#news {
+	border: 2px solid #CDCDCD;
+	border-radius: 15px;
+	background-color: #3399FF;
+	padding-bottom: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 15px;
+	height: 440px;
+	width: 100%;
+	float: middle;
+}
+
+#newscontent {
+	overflow-y: auto;
+	height: 350px;
+	color: #FFFFFF;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 5px;
+}
+
+#newscontent a:link { color: #000000; }
+#newscontent a:visited { color: #000000; }
+#newscontent a:hover { color: #000000; }
+#newscontent a:active { color: #000000; }
+
+#maincontent {
+	width: 97%;
+	margin: 1.5% 1.5%;
+	padding-bottom: 10px;
+	float: center;
+	font-size: 14px;
+	background-color: #FFF;
+}
+
+.table-borderless tbody tr td, .table-borderless tbody tr th, .table-borderless thead tr th {
+    border: none;
+}
+
+::-webkit-scrollbar {
+    -webkit-appearance: none;
+}
+
+::-webkit-scrollbar:vertical {
+    width: 12px;
+}
+
+::-webkit-scrollbar:horizontal {
+    height: 12px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: rgba(0, 0, 0, .5);
+    border-radius: 10px;
+    border: 2px solid #ffffff;
+}
+
+::-webkit-scrollbar-track {
+    border-radius: 10px;  
+    background-color: #ffffff; 
+}
+.table > tbody > tr > td {
+     vertical-align: middle;
+}
+
+a.back-to-top {
+	display: none;
+	width: 60px;
+	height: 60px;
+	text-indent: -9999px;
+	position: fixed;
+	z-index: 999;
+	right: 20px;
+	bottom: 20px;
+	background: #3366FF url("images/up-arrow.png") no-repeat center 43%;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	border-radius: 30px;
+	opacity: 0.6;
+}
+
+.important_dates_table_borders
+{
+	border-top: solid; 
+	border-color: #818181;
+}
+
+.important_dates_table_column_1
+{
+	padding-right: 30px;
+}
+
+.topics_table_font
+{
+	font-family:arial,helvetica,sans-serif;
+}
