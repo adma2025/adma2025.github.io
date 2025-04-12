@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75948237-76ca-49ed-b2d9-e8d3ae20d057" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/adma2025.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/adma2025.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/call_for_papers.html" beforeDir="false" afterPath="$PROJECT_DIR$/call_for_papers.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +33,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "F:/PycharmProjects/adma2025",
+    "last_opened_file_path": "F:/PycharmProjects/t-shap",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -96,7 +93,8 @@
       <workItem from="1743747327031" duration="1138000" />
       <workItem from="1744096139113" duration="481000" />
       <workItem from="1744194548605" duration="33000" />
-      <workItem from="1744258682704" duration="1181000" />
+      <workItem from="1744258682704" duration="1605000" />
+      <workItem from="1744352646876" duration="1294000" />
     </task>
     <servers />
   </component>
