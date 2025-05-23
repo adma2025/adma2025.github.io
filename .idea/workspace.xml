@@ -10,7 +10,6 @@
       <change beforePath="$PROJECT_DIR$/call_for_papers.html" beforeDir="false" afterPath="$PROJECT_DIR$/call_for_papers.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/header.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/important_date.html" beforeDir="false" afterPath="$PROJECT_DIR$/important_date.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +106,8 @@
       <workItem from="1746022254072" duration="2178000" />
       <workItem from="1746025344904" duration="43000" />
       <workItem from="1746025702434" duration="1064000" />
-      <workItem from="1746574474651" duration="612000" />
+      <workItem from="1746574474651" duration="1685000" />
+      <workItem from="1748008376907" duration="666000" />
     </task>
     <servers />
   </component>
