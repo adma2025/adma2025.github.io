@@ -18,6 +18,7 @@
       .gatsby-image-wrapper [data-placeholder-image] {
         opacity: 0 !important
       }
+
     </style>
   </noscript>
   <script type="module">
@@ -42,16 +43,13 @@
               <h2 id='welcome' class="pt-9 mb-5 font-titleFont text-3xl text-mainPurple font-extrabold">ADMA2025 Program Structure</h2>
 
                 <p class="mb-4 justified-text">
-          <div style="overflow-x:auto; max-width:100%;">
-            <iframe
+
+
+            <iframe id="myFrame"
                     src="https://docs.google.com/document/d/e/2PACX-1vSexjSa_7CgCWaKldm92ZaXjvdZLHz59sRQkGHjJ1wmeA_tVLc476iuJ4wMMOc6343-Nrvgwe_TO6ra/pub?embedded=true"
                     width="100%"
-                    height="2200px"
-                    frameborder="0"
-                    scrolling="no">
-
+                    height="2200px">
             </iframe>
-          </div>
 
 
 
@@ -110,5 +108,16 @@
 </script>
   <script src="js/load_header.js"></script>
   <script src="js/load_footer.js"></script>
+  <script>
+  const frame = document.getElementById("myFrame");
+
+  if (window.innerWidth <= 768) {
+    frame.setAttribute("frameborder", "1");
+    frame.setAttribute("scrolling", "auto");
+  } else {
+    frame.setAttribute("frameborder", "0");
+    frame.setAttribute("scrolling", "no");
+  }
+  </script>
 </body>
 </html>
