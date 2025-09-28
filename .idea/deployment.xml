@@ -9,7 +9,7 @@
           </mappings>
         </serverdata>
       </paths>
-      <paths name="tajima">
+      <paths name="vast.ai">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
