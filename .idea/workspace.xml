@@ -56,6 +56,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\PycharmProjects\adma2025" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -172,7 +177,8 @@
       <workItem from="1760683689307" duration="2717000" />
       <workItem from="1760709030938" duration="695000" />
       <workItem from="1760782081286" duration="20000" />
-      <workItem from="1760947276802" duration="578000" />
+      <workItem from="1760947276802" duration="6423000" />
+      <workItem from="1760970030099" duration="1132000" />
     </task>
     <servers />
   </component>
